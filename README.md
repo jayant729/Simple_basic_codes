@@ -1,2 +1,1 @@
-"# Simple_basic_codes" 
-"# Simple_basic_codes" 
+Welcome to the Simple Basic C++ Codes repository! This repository contains fundamental C++ programs covering basic concepts, syntax, and logic-building exercises. Whether you're a beginner or looking to refresh your C++ skills, this collection of simple codes will help you get started and improve your understanding of the language.
